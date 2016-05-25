@@ -1,0 +1,4 @@
+Open Terminal and type:
+
+sudo apt-get install libfreenect-dev
+sudo apt-get install ros-indigo-freenect-launch
